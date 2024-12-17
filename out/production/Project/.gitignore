@@ -1,0 +1,13 @@
+/.classpath
+/.idea/
+/.project
+/allocation_date
+/appointment_data
+/com/
+/database.properties
+/doctor_data
+/inpatient_data
+/lib/
+/out/
+/outpatient_data
+/script.sql

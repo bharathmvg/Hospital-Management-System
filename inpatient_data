@@ -1,0 +1,27 @@
+John Doe:9876543210:45:Male:Diabetes:Cardiologist:1500.50:5000.00:Skin Allergy Testing:Deluxe:Yes
+Jane Smith:9876501234:34:Female:Hypertension:Neurologist:1200.00:4000.00:Therapy:Private:No
+Richard Roe:9123456378:29:Male:Asthma:Pulmonologist:800.00:2000.00:Colonoscopy:General Ward:Yes
+Emily Davis:9876523456:40:Female:Arthritis:Orthopedic:1000.00:3500.00:Prostate Exam:Semi-Private:No
+Michael Brown:9876534567:55:Male:Heart Disease:Cardiologist:2000.00:6000.00:MRI Brain Scan:ICU:Yes
+Sophia Wilson:9876545678:37:Female:Skin Allergy:Dermatologist:750.00:2500.00:Skin Allergy Testing:Private:Yes
+James Taylor:9876556789:10:Male:Prostate Cancer:Urologist:1800.00:7000.00:Child Vaccination:Suite:Yes
+Olivia Martin:9876567890:28:Female:Thyroid Issues:Endocrinologist:900.00:3000.00:Hormone Therapy:Maternity:No
+William Anderson:9876578901:50:Male:Lung Infection:Pulmonologist:1400.00:4500.00:Bronchoscopy:HDU:Yes
+Ava Thomas:9876589012:22:Female:Anemia:Hematologist:1100.00:3200.00:Colonoscopy:Pediatric:No
+
+Ava Thomas:9876289012:22:Female:Anemia:Hematologist:1100.00:3200.00:Blood Transfusion:General:No
+bharath:9123456749:0:male:diabetes:cardio:1200:2000:surgery:deluxe:no
+Ava Thomas:9876569012:22:Female:Anemia:Hematologist:1100.00:3200.00:Blood Transfusion:General:No
+Richard Roe:9123456378:29:Male:Asthma:Pulmonologist:800.00:2000.00:Consultation:General Ward:Yes
+
+Treatment:
+Coronary Angioplasty
+Skin Allergy Testing
+MRI Brain Scan
+Knee Replacement Surgery
+Child Vaccination
+Colonoscopy
+X-ray Analysis
+Cognitive Behavioral Therapy
+Prostate Exam
+Thyroid Function Test
